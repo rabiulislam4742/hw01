@@ -1,0 +1,81 @@
+body{
+    background-color:#71c6de;
+}
+
+h1{
+    font-size: 40px;
+    background-color: blueviolet;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.h2b{
+    border-style:groove;
+    border-color: #ff0000;
+    border-radius: 5px;
+    background-color: black;
+    color:aliceblue;
+    text-align:center;
+    
+}
+
+.p1{padding-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    border-style: outset;
+    border-color: rgb(13, 98, 173);
+    border-width:10px;
+    padding-top:10px;
+    background-color:greenyellow
+}
+table th{
+    background-color: blue;
+    padding:10px;
+    color: bisque;
+    
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+table td{
+    text-align: center;
+    border:1px;
+    border-style: solid; 
+    color:rgb(44, 3, 41);
+    
+}
+.margin{
+    text-align: center;
+    background-color: whitesmoke;
+}
+img{
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+}
+div{
+    width: 300px;
+    height: 55px;
+    margin: 0px;
+    padding: 10px;
+    border: solid 5px gray;
+    
+}
+.shadow{
+    text-shadow: 2px 2px 5px red;
+}
+a:hover{
+    font-size: 20px;
+    color: rgb(255, 4, 4);
+    background-color: black;
+    
+}
+.form{
+    text-align: center;
+    color: yellow;
+    text-shadow: 2px 2px 2px black;
+    text-decoration: dotted;
+}
